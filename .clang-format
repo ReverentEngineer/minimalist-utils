@@ -1,0 +1,6 @@
+---
+AlignAfterOpenBracket: Align
+AlwaysBreakAfterReturnType: TopLevelDefinitions
+BinPackArguments: false
+BinPackParameters: false
+IndentWidth: 2
